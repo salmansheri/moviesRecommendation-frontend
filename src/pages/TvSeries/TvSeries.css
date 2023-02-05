@@ -1,0 +1,8 @@
+.tvSeriesWrapper {
+    margin: 50px; 
+}
+
+.tvSeriesList {
+    display: flex; 
+    flex-wrap: wrap; 
+}

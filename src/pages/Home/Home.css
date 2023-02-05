@@ -1,0 +1,9 @@
+.recMovies {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.recTvSeries {
+    display: flex; 
+    flex-wrap: wrap; 
+}

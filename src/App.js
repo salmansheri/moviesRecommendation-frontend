@@ -1,5 +1,5 @@
 import React from 'react'
-// import { Home } from './pages';
+import { Home, TvSeries, Movies, MyList } from './pages';
 import { Navbar, Sidebar } from './components'
 import './App.css';
 
@@ -12,7 +12,12 @@ function App() {
       <Sidebar />
      
       <div className="other">
-        Other
+  {/*<TvSeries /> */ }
+  {/*<Movies /> */}
+        <MyList />
+        
+
+         
       </div>
       
     </div>

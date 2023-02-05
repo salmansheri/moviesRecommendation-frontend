@@ -6,7 +6,7 @@ function Navbar() {
         <div className="navbar">
            
                 <div className="navbarLeft">
-                    <h1 className="NavbarTitle">MovieRecco App</h1>
+                    <h1 className="NavbarTitle">MovieRecco</h1>
                 </div>
                 <div className="navbarRight">
                 <div className="navbarLink">

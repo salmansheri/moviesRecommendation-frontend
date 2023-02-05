@@ -1,0 +1,10 @@
+.moviesWrapper {
+    margin: 50px; 
+}
+
+
+.moviesList {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+

@@ -1,0 +1,10 @@
+.myListWrapper {
+    margin: 50px; 
+}
+
+.myListLIst {
+    margin: 20px 0px 0px 0px; 
+    display: flex; 
+    align-items: center;
+    flex-wrap: wrap; 
+}
