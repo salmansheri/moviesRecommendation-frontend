@@ -1,0 +1,40 @@
+.sidebar {
+    flex: 1; 
+    background-color: rgb(226, 226, 255); 
+    height: calc(100vh - 80px); 
+    position: sticky; 
+    top: 80px; 
+}
+
+.sidebarWrapper {
+    width: 100%; 
+}
+
+
+.sidebarTitle {
+    font-size: 30px; 
+    text-align: center; 
+    
+}
+
+
+
+.sidebarListItem {
+    list-style: none;
+    padding: 10px; 
+    border-radius: 10px; 
+    display: flex; 
+    align-items: center; 
+    cursor: pointer; 
+    
+}
+
+.sidebarListItem.active,
+.sidebarListItem:hover {
+    background-color: blue; 
+    color: white; 
+}
+
+.sidebarIcon {
+    margin-right: 5px; 
+}
